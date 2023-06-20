@@ -1,3 +1,4 @@
+import Navbar from './components/Navbar';
 import './globals.css';
 import localFont from 'next/font/local';
 
@@ -17,7 +18,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang='en'>
-      <body className={satoshi.className}>{children}</body>
+      <body className={satoshi.className}>
+        <Navbar />
+        {children}
+      </body>
     </html>
   );
 }
