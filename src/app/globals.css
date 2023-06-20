@@ -3,4 +3,11 @@
 @tailwind utilities;
 
 :root {
+  background-color: #010403;
+  color: white;
+}
+
+::selection {
+  background-color: #010403;
+  color: white;
 }
