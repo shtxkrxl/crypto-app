@@ -1,3 +1,4 @@
+import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import './globals.css';
 import localFont from 'next/font/local';
@@ -21,6 +22,7 @@ export default function RootLayout({
       <body className={satoshi.className}>
         <Navbar />
         {children}
+        <Footer />
       </body>
     </html>
   );
