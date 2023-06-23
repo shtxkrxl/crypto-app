@@ -8,6 +8,16 @@
 }
 
 ::selection {
-  background-color: #010403;
-  color: white;
+  background-color: white;
+  color: #010403;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type='number'] {
+  -moz-appearance: textfield;
 }
