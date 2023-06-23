@@ -10,6 +10,8 @@ const satoshi = localFont({
 
 export const metadata = {
   title: 'Crypto',
+  description:
+    'A website that allows you to monitor the exchange rate of cryptocurrencies',
 };
 
 export default function RootLayout({
