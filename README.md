@@ -108,9 +108,9 @@ Project Link: [https://github.com/shtxkrxl/crypto-app](https://github.com/shtxkr
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [commits-shield]: https://img.shields.io/github/commit-activity/t/shtxkrxl/crypto-app.svg?style=for-the-badge
-[commits-url]: https://github.com/github_username/repo_name/issues
+[commits-url]: https://github.com/shtxkrxl/crypto-app/graphs/commit-activity
 [issues-shield]: https://img.shields.io/github/issues/shtxkrxl/crypto-app.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-url]: https://github.com/shtxkrxl/crypto-app/issues
 [license-shield]: https://img.shields.io/github/license/shtxkrxl/crypto-app.svg?style=for-the-badge
 [license-url]: https://github.com/shtxkrxl/crypto-app/blob/master/LICENSE.txt
 [Next.js]: https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white
