@@ -20,7 +20,7 @@
 <h3 align="center">Crypto</h3>
 
   <p align="center">
-    A website that allows you to monitor the exchange rate of cryptocurrencies
+    Веб-сайт для просмотра цен, рыночной капитализации и объема торгов криптовалют в режиме реального времени
     <br />
     <a href="https://crypto-shtxkrxl.vercel.app/">View Demo</a>
     ·
@@ -36,14 +36,10 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -52,58 +48,55 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The project is a website for monitoring cryptocurrencies, which was made by me for educational purposes.
+![2023-08-09_22-34-44](https://github.com/shtxkrxl/crypto-app/assets/68380962/769ccb0a-3dcf-42a3-8cbd-6f1e176592a0)
 
-### Built With
+Я разработал этот сайт для мониторинга криптовалют, чтобы улучшить свой навык работы с фреймворком Next, а также научиться работать с графиками. Для проекта я использовал api сайта [CoinGecko](https://www.coingecko.com/).    
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![typescript][typescript]][typescript-url]
-* [![Tailwindcss][Tailwindcss]][Tailwindcss-url]
-* [![chart.js][chart.js]][chart.js-url]
+Во время разработки:
+* Использовал фреймворк [Next](https://nextjs.org/)
+* Использовал типизацию [TypeScript](https://www.typescriptlang.org/)
+* Писал стили с помощью css-фреймворка - [Tailwindcss](https://tailwindcss.com/)
+* Взаимодействовал с REST API сайта [CoinGecko](https://www.coingecko.com/)
+* Использовал библиотеку для фетчинга данных - [SWR](https://swr.vercel.app/ru)
+* Создал два вида графиков с помощю библиотеки - [Chart.js](https://www.chartjs.org/)
+* Использовал тултипы из библиотеки - [Tippy.js](https://atomiks.github.io/tippyjs/)
+* Разработал собственную пагинацию
+* Разработал поиск по криптовалютам
+* Разработал таблицу с сортировкой по столбцу
+* Разработал конвертер валют
+* Использовал хостинг [Vercel](https://vercel.com)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-If you want to run the project locally, follow these instructions.
+Если вы хотите запустить проект локально, следуйте следующим инструкциям.
 
-1. Clone the repo
+1. Склонируйте репозиторий
    ```sh
    git clone https://github.com/shtxkrxl/crypto-app.git
    ```
-2. Install NPM packages
+2. Установите NPM пакеты
    ```sh
    npm install
    ```
-3. Run the development server
+3. Запустите проект на локальном сервере
    ```sh
    npm run dev
    ```
-4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+4. Откройте [http://localhost:3000](http://localhost:3000) в своём браузере чтобы увидеть результат
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Распространяется под лицензией MIT License. Читайте `LICENSE.txt` для большей информации.
 
 <!-- CONTACT -->
 ## Contact
 
-Alexandr Kalmaev - sanya.kalmaev@yandex.ru
+Александр Кальмаев - sanya.kalmaev@yandex.ru
 
-Project Link: [https://github.com/shtxkrxl/crypto-app](https://github.com/shtxkrxl/crypto-app)
+Ссылка на проект: [https://github.com/shtxkrxl/crypto-app](https://github.com/shtxkrxl/crypto-app)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
