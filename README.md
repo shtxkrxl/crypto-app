@@ -100,7 +100,7 @@
 <!-- CONTACT -->
 ## Контакты
 
-Александр Кальмаев - sanya.kalmaev@yandex.ru
+Александр Кальмаев - <a href="mailto:shtxkrxl@ya.ru" target="_blank">shtxkrxl@ya.ru</a>
 
 Ссылка на проект: [https://github.com/shtxkrxl/crypto-app](https://github.com/shtxkrxl/crypto-app)
 
@@ -112,13 +112,3 @@
 [issues-url]: https://github.com/shtxkrxl/crypto-app/issues
 [license-shield]: https://img.shields.io/github/license/shtxkrxl/crypto-app.svg?style=for-the-badge
 [license-url]: https://github.com/shtxkrxl/crypto-app/blob/master/LICENSE.txt
-[Next.js]: https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Tailwindcss]: https://img.shields.io/badge/Tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4
-[Tailwindcss-url]: https://tailwindcss.com/
-[chart.js]: https://img.shields.io/badge/Chart.js-20232A?style=for-the-badge&logo=chartdotjs&logoColor=FF6384
-[chart.js-url]: https://www.chartjs.org/docs/latest/
-[typescript]: https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6
-[typescript-url]: https://www.typescriptlang.org/
